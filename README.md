@@ -31,7 +31,7 @@ HooBank is a UI/UX-focused modern fintech website designed to showcase financial
 
 ## 🛠️ Setup & Installation
 
-To run HooBank locally, follow these steps:
+To set up and run this application locally, follow these steps:
 
 ### 1️⃣ Clone the Repository
 
