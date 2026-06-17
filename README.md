@@ -1,8 +1,16 @@
 # HooBank - Modern UI/UX Website
 
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-blueviolet)
+![React.js](https://img.shields.io/badge/React.js-20232A?logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel)
+
 HooBank is a modern, responsive, and visually appealing website designed to showcase financial services and solutions. Built using **React.js** and **Tailwind CSS**, this project emphasizes a clean, user-friendly UI/UX that adapts seamlessly to any device.
 
-## Features
+## Features / Highlights
 
 - **Responsive Design**: Fully optimized for various screen sizes, including desktops, tablets, and smartphones.
 - **Modern UI/UX**: Sleek and contemporary design elements to enhance the user experience.
