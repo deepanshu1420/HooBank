@@ -1,12 +1,12 @@
 # HooBank - Modern UI/UX Website
 
-![UI/UX](https://img.shields.io/badge/UI%2FUX-Design-blueviolet)
-![React.js](https://img.shields.io/badge/React.js-20232A?logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3)
-![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel)
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-blueviolet?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 HooBank is a modern, responsive, and visually appealing website designed to showcase financial services and solutions. Built using **React.js** and **Tailwind CSS**, this project emphasizes a clean, user-friendly UI/UX that adapts seamlessly to any device.
 
