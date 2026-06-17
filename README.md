@@ -27,7 +27,37 @@ HooBank is a UI/UX-focused modern fintech website designed to showcase financial
 - ✨ **UI/UX:** Responsive & Modern Design
 - ⚡ **Deployment:** Vercel
 
-![HooBank Website Screenshot](./image.png)
+## 📸 Screenshots / Demo
+
+### 🏠 Home Page
+
+![Home Page](./screenshots/Home.png)
+*The landing page featuring a modern UI/UX design, engaging visuals, and an overview of HooBank's financial services.*
+
+### ✨ Features Section
+
+![Features](./screenshots/Features.png)
+*Highlights the platform's key features and benefits through clean layouts and intuitive design elements.*
+
+### 💸 Easy Payment
+
+![Easy Payment](./screenshots/EasyPayment.png)
+*Showcases a seamless payment experience with secure and user-friendly transaction workflows.*
+
+### 💳 Credit Card Offers
+
+![Credit Card Offers](./screenshots/CreditCardOffers.png)
+*Presents exclusive credit card benefits, rewards, and promotional offers in an attractive format.*
+
+### 📞 Contact Section
+
+![Contact](./screenshots/Contact.png)
+*Provides users with convenient ways to connect, get support, and learn more about the services offered.*
+
+### 📱 Responsive Design
+
+![Responsive Design](./screenshots/Responsive.png)
+*Demonstrates the website's fully responsive layout, ensuring a consistent experience across desktop, tablet, and mobile devices.*
 
 ## 🛠️ Setup & Installation
 
@@ -59,7 +89,7 @@ npm run dev
 
 ### 5️⃣ Open in Browser and Visit
 
-```text
+```bash
 http://localhost:5173
 ```
 
