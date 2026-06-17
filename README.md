@@ -50,6 +50,11 @@ HooBank is a UI/UX-focused modern fintech website designed to showcase financial
 ![Credit Card Offers](./screenshots/CreditCardOffers.png)
 *Presents exclusive credit card benefits, rewards, and promotional offers in an attractive format.*
 
+### ⭐ Customer Reviews
+
+![Customer Reviews](./screenshots/CustomerReviews.png)
+*Showcases authentic customer testimonials and feedback, highlighting user satisfaction and trust in HooBank's financial services.*
+
 ### 📞 Contact Section
 
 ![Contact](./screenshots/Contact.png)
