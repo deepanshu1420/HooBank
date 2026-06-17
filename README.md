@@ -23,6 +23,7 @@ HooBank is a UI/UX-focused modern fintech website designed to showcase financial
 ## 🚀 Tech Stack
 
 - ⚛️ **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- 📜 **Programming Language:** JavaScript (ES6+)
 - 🎨 **Styling:** Tailwind CSS
 - ✨ **UI/UX:** Responsive & Modern Design
 - ⚡ **Deployment:** Vercel
